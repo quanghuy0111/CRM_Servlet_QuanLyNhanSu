@@ -1,0 +1,8 @@
+Mổ tả hệ thống:
+- Website xây dựng hệ thống quản lý tiến độ công việc
+- Hệ thống cho phép quản trị đăng nhập, thêm mới, cập nhập, sửa, xóa, tìm kiếm các nhân viên. Thêm mới nhóm việc và giao việc từng nhân viên.
+- Hệ thống cũng cho phép quản trị viên có thể theo dõi thống kê và tiến độ công việc của từng nhân viên đồng thời cũng có thể theo dõi các thống kê và tiến độ công việc của các nhân viên theo từng nhóm việc.
+- Hệ thống cho phép nhân viên đăng nhập với tư các thành viên, cập nhập tiến độ công việc, xem các thống kê về tiến độ của các đầu việc đang thực hiện.
+Chi tiết yêu cầu:
+- Quản lý thành viên: Quản lý các thông tin như tài khoản, mật khẩu, email, địa chỉ, số điện thoại, loại thành viên.
+- Quản lý nhóm việc: Quản lý các thông tin như tên đầu việc, ngày tạo, người tạo, mã nhóm việc, trạng thái thực hiện.
